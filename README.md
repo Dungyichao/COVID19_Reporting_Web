@@ -2,7 +2,7 @@
 
 <h1>Frontend User Cellphone Website Input</h1>
 
-<video src="[your_attachment_url](https://github.com/user-attachments/assets/ef3b47fb-4277-429b-9538-7f3caa02c5e5)" controls muted autoplay></video>
+<video src="https://github.com/user-attachments/assets/ef3b47fb-4277-429b-9538-7f3caa02c5e5"></video>
 
 
 
